@@ -7,6 +7,7 @@ app = Flask(__name__)
 
 token = bot_token
 
+global bot
 
 
 
