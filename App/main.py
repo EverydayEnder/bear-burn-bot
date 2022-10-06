@@ -7,6 +7,14 @@ app = Flask(__name__)
 
 token = bot_token
 
+
+
+
+
+
+
+
+
 def welcome_msg(item):
     global token
     if item["text"].lower() == "hi":
